@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/edulensRjs/static/css/main.42048412.chunk.css",
+    "main.js": "/edulensRjs/static/js/main.d22f91a1.chunk.js",
+    "main.js.map": "/edulensRjs/static/js/main.d22f91a1.chunk.js.map",
+    "runtime-main.js": "/edulensRjs/static/js/runtime-main.907f036a.js",
+    "runtime-main.js.map": "/edulensRjs/static/js/runtime-main.907f036a.js.map",
+    "static/js/2.a50adb12.chunk.js": "/edulensRjs/static/js/2.a50adb12.chunk.js",
+    "static/js/2.a50adb12.chunk.js.map": "/edulensRjs/static/js/2.a50adb12.chunk.js.map",
+    "static/js/3.a94a50d2.chunk.js": "/edulensRjs/static/js/3.a94a50d2.chunk.js",
+    "static/js/3.a94a50d2.chunk.js.map": "/edulensRjs/static/js/3.a94a50d2.chunk.js.map",
+    "index.html": "/edulensRjs/index.html",
+    "static/css/main.42048412.chunk.css.map": "/edulensRjs/static/css/main.42048412.chunk.css.map",
+    "static/js/2.a50adb12.chunk.js.LICENSE.txt": "/edulensRjs/static/js/2.a50adb12.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/edulensRjs/static/media/spartan.0427aac0.ttf",
+    "static/media/Grades-cuate.0df3c7ef.svg": "/edulensRjs/static/media/Grades-cuate.0df3c7ef.svg",
+    "static/media/UI.da81d7ac.jpg": "/edulensRjs/static/media/UI.da81d7ac.jpg",
+    "static/media/boy-learn.adc91d9c.jpg": "/edulensRjs/static/media/boy-learn.adc91d9c.jpg",
+    "static/media/brain_test.09d73b1f.jpeg": "/edulensRjs/static/media/brain_test.09d73b1f.jpeg",
+    "static/media/coder.ca6a5cc5.jpg": "/edulensRjs/static/media/coder.ca6a5cc5.jpg",
+    "static/media/all.css": "/edulensRjs/static/media/fa-solid-900.efbd5d20.eot",
+    "static/media/hacker.31436053.jpg": "/edulensRjs/static/media/hacker.31436053.jpg",
+    "static/media/jamb_logo.29ee8cad.png": "/edulensRjs/static/media/jamb_logo.29ee8cad.png",
+    "static/media/numeracy_test.5a3c141a.svg": "/edulensRjs/static/media/numeracy_test.5a3c141a.svg",
+    "static/media/random.5ce20fd2.jpg": "/edulensRjs/static/media/random.5ce20fd2.jpg",
+    "static/media/uiIcons.css": "/edulensRjs/static/media/uicons-regular-rounded.76df2b70.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.907f036a.js",
+    "static/js/2.a50adb12.chunk.js",
+    "static/css/main.42048412.chunk.css",
+    "static/js/main.d22f91a1.chunk.js"
+  ]
+}
