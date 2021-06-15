@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/edulensRjs/static/css/main.42048412.chunk.css",
-    "main.js": "/edulensRjs/static/js/main.d22f91a1.chunk.js",
-    "main.js.map": "/edulensRjs/static/js/main.d22f91a1.chunk.js.map",
+    "main.js": "/edulensRjs/static/js/main.baf4fcba.chunk.js",
+    "main.js.map": "/edulensRjs/static/js/main.baf4fcba.chunk.js.map",
     "runtime-main.js": "/edulensRjs/static/js/runtime-main.907f036a.js",
     "runtime-main.js.map": "/edulensRjs/static/js/runtime-main.907f036a.js.map",
     "static/js/2.a50adb12.chunk.js": "/edulensRjs/static/js/2.a50adb12.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.907f036a.js",
     "static/js/2.a50adb12.chunk.js",
     "static/css/main.42048412.chunk.css",
-    "static/js/main.d22f91a1.chunk.js"
+    "static/js/main.baf4fcba.chunk.js"
   ]
 }
